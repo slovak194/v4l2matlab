@@ -1,0 +1,6 @@
+[submodule "thirdparty/webcam-v4l2"]
+	path = thirdparty/webcam-v4l2
+	url = https://github.com/severin-lemaignan/webcam-v4l2.git
+[submodule "thirdparty/mexplus"]
+	path = thirdparty/mexplus
+	url = https://github.com/kyamagu/mexplus.git
